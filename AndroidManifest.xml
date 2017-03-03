@@ -114,7 +114,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".unholy"
-            android:label="unholy" >
+            android:label="Unholy" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <daylight_headers>
-    <meta_data creator="BamaVic" />
+    <meta_data creator="UnholyDevs Team" />
 	<change_interval minutes="10" />
     <list_header image="unholy1" />
     <list_header image="unholy2" />
@@ -8,4 +8,15 @@
     <list_header image="unholy4" />
     <list_header image="unholy5" />
     <list_header image="unholy6" />
+    <list_header image="unholy7" />
+    <list_header image="unholy8" />
+    <list_header image="unholy9" />
+    <list_header image="unholy10" />
+    <list_header image="unholy11" />
+    <list_header image="unholy12" />
+    <list_header image="unholy13" />
+    <list_header image="unholy14" />
+    <list_header image="unholy15" />
+    <list_header image="unholy16" />
+    <list_header image="unholy17" />
 </daylight_headers>
